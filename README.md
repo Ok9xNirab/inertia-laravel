@@ -13,6 +13,10 @@ cp .env.example .env
 ```
 
 ```
+cd inertia-laravel
+```
+
+```
 composer install
 ```
 
